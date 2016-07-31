@@ -1,4 +1,6 @@
-﻿-- @9:24 AM here is my 2nd change without committing earlier changes 
+﻿-- @9:26 AM VERSION 3 to be commmitted now
+
+-- @9:24 AM here is my 2nd change without committing earlier changes 
 
 -- My changes were discarded from GITHUB
 -- Let me insert changes here now - 7/31/16 9:22 AM EST
