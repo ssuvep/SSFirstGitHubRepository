@@ -1,4 +1,8 @@
-﻿CREATE COLUMN TABLE "HANA_TRAINING"."T_ORDER_DETAILS" ("OID" BIGINT CS_FIXED,
+﻿-- @9:24 AM here is my 2nd change without committing earlier changes 
+
+-- My changes were discarded from GITHUB
+-- Let me insert changes here now - 7/31/16 9:22 AM EST
+CREATE COLUMN TABLE "HANA_TRAINING"."T_ORDER_DETAILS" ("OID" BIGINT CS_FIXED,
 	 "PID" BIGINT CS_FIXED,
 	 "CUSTID" VARCHAR(5),
 	 "QTY" SMALLINT CS_INT,
